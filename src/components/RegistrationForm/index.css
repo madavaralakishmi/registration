@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+img {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+}
+
+.center {
+  text-align: center;
+}
